@@ -1,0 +1,17 @@
+google-genai
+Pillow
+PySide6
+SpeechRecognition
+python-dotenv
+edge-tts
+pygame
+psutil
+pyautogui
+pygetwindow
+pyperclip
+pycaw
+comtypes
+pywhatkit
+customtkinter
+pyttsx3
+requests
