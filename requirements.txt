@@ -15,3 +15,4 @@ pywhatkit
 customtkinter
 pyttsx3
 requests
+PyAudio
